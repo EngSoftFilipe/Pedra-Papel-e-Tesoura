@@ -64,3 +64,4 @@ public class Jokempô{
         }
             scanner.close();
     }
+}
